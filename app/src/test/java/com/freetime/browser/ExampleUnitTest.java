@@ -1,4 +1,4 @@
-package com.freetime.fbrowser;
+package com.freetime.browser;
 
 import org.junit.Test;
 
